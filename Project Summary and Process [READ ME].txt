@@ -1,4 +1,6 @@
-This is a Tableau project that I created using an Airbnb 2016 dataset. I analyzed and cleaned the data using Microsoft Excel, and then imported it into Tableau. I set up the correct relationships and configurations.
+This is a Tableau project that I created using an Airbnb 2016 dataset from Kaggle. I analyzed and cleaned the data using Microsoft Excel, and then imported it into Tableau. I set up the correct relationships and configurations. 
+
+Dataset Link: https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset
 
 1. The first sheet I created is a line graph displaying the average price for all zip codes, arranged from highest to lowest. I also used a color gradient to emphasize price changes.
 
