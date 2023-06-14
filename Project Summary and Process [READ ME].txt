@@ -1,0 +1,13 @@
+This is a Tableau project that I created using an Airbnb 2016 dataset. I analyzed and cleaned the data using Microsoft Excel, and then imported it into Tableau. I set up the correct relationships and configurations.
+
+1. The first sheet I created is a line graph displaying the average price for all zip codes, arranged from highest to lowest. I also used a color gradient to emphasize price changes.
+
+2. The second sheet is a map showing the zip codes listed in the dataset. I plotted them on a map and applied the same color gradient as in the first sheet to represent the average price.
+
+3. The third sheet displays the yearly listing revenue. This graph compares the sum of prices (calendar) over time to estimate the best times to open and close Airbnb properties. It provides valuable insights into market patterns. To highlight price changes, I used a blue gradient that makes it clear for stakeholders.
+
+4. The fourth sheet presents the revenues per year based on room types. This graph illustrates which types of rooms generate the most revenue, helping to identify rooms in high demand and increase overall revenue. The graph represents the number of bedrooms against the sum of prices. I kept the graph simple and straightforward without using a gradient, but added labels for stakeholders to easily understand the prices.
+
+5. The fifth sheet shows the average prices of different room types. This analysis allows us to observe the average price charged for various room types. I used the average price divided by the number of bedrooms to display the average price per room. Again, to keep it clear and simple for stakeholders, I used a graph with labeled prices instead of a gradient, as the dataset is straightforward.
+
+6. The sixth sheet provides a distinct count of all IDs versus room types (bedrooms). It shows the number of listings for each room type, allowing us to determine the most popular listings and make better-informed decisions. I used a gradient to highlight the difference between the number of listings and their corresponding bedrooms.
